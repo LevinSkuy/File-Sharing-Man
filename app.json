@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/mrismanaziz/File-Sharing-Man",
+  "repository": "https://github.com/LevinSkuy/File-Sharing-Man",
   "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -51,7 +51,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "<b>Hello {first}\n\nAnda harus bergabung di Channel/Grup saya untuk menggunakan saya\n\nSilakan Join Ke Channel Terlebih Dahulu</b>"
+      "value": "<b>Hy {first}\n\nLo harus bergabung di Channel/Grup saya untuk menggunakan bot @lepingsad\n\nSilakan Join Ke Channel Terlebih Dahulu</b>"
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
